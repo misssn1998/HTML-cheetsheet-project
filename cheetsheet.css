@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: linen;
+}
+
+#header {
+    text-align: center;
+    font-size: 32px;
+}
+
+.tablehead {
+    font-size: 20px;
+    text-align: center;
+    color:  goldenrod;
+    font-weight: bold;
+}
+
+table {
+    text-align: center;
+    width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tablehead {
+    text-align: center;
+    background-color:#ffdb4d
+}
+
+.tag {
+    background-color: #ffdb4d;
+}
+
+table,
+th,
+td {
+    border: 1px solid #ffdb4d ;    
+}
